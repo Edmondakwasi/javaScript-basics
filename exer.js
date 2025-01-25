@@ -20,6 +20,8 @@ const backgroundColorForFirstParagraph = document.body.children[2].children[1];
 
 const removeThirdParagraph = document.body.children[2].children[3];
 
+console.dir(document)
+
 
 
 
